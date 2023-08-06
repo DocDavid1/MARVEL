@@ -307,6 +307,8 @@ h1 {
         align-items: center;
         justify-content: center;
     }
+    .nav{display: flex;
+    flex-direction: column;}
 }
 
 .doto {
