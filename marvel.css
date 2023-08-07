@@ -47,6 +47,9 @@ body {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.299);
     align-items: center;
+    position: absolute;
+    left: 30%;
+    bottom: 0px;
 
 }
 .dor{
@@ -54,6 +57,7 @@ body {
     height: 6vh;
 }
 .card span{
+    
     color: white;
 }
 
@@ -84,7 +88,7 @@ img {
     align-items: center;
     justify-content: center;
     border-radius: 10%;
-
+position: relative;
 }
 
 .footer {
